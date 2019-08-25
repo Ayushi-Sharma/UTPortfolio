@@ -1,0 +1,9 @@
+.navbar {
+  margin-bottom: 0;
+}
+
+.sticky-navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
